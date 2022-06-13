@@ -2,7 +2,7 @@
 
 ## 1ère étape
 
-1. Je crée un fichier .env.local pour ne pas mettre en ligne mon ID et mon password. C'est ce qui est recommandé dans les bonnes pratiques Symfony.
+1. Je crée un fichier .env.local pour ne pas mettre en ligne mon ID et mon password. Même si je n'en ai pas réellement besoin, c'est ce qui est recommandé dans les bonnes pratiques Symfony.
 2. Dans le fichier _composer.json_, je crée une nouvelle commande :
 
 ```json
